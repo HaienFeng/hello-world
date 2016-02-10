@@ -1,2 +1,5 @@
-# hello-world
-The sample repo
+hello-world
+
+hello, humans
+
+This is the readme file of my first repository in github.
